@@ -1,0 +1,7 @@
+python-dotenv
+huggingface_hub
+transformers
+datasets
+evaluate
+accelerate
+gradio
