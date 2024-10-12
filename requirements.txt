@@ -5,3 +5,4 @@ datasets
 evaluate
 accelerate
 gradio
+scikit-learn
