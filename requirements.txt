@@ -6,3 +6,4 @@ evaluate
 accelerate
 gradio
 scikit-learn
+matplotlib
