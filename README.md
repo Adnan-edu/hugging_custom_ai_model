@@ -26,6 +26,12 @@
 
 12. [Acknowledgments](#acknowledgments)
 
+---
+
+🚀✨ [`hf-llm-nlp-finetune-transformers`](https://github.com/Adnan-edu/hf-llm-nlp-finetune-transformers) is a hands-on deep learning project focused on **NLP applications on custom data using PyTorch and the Transformer models**.  
+👉 For more details and to explore the code, head over to the repository!
+
+---
 
 ## Overview
 
