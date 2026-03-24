@@ -37,7 +37,7 @@
 
 The text outlines a process for text classification that involves starting with a text dataset, building a classification model, and creating a shareable demo. The workflow will utilize various open-source tools from the Hugging Face ecosystem.
 
-<img src="https://camo.githubusercontent.com/f2b03524e937ea49501331f8ae479cf59fb7c119ffd194125bd9f326ac043bc7/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f6d7264626f75726b652f6c6561726e2d68662d696d616765732f7265736f6c76652f6d61696e2f6c6561726e2d68662d746578742d636c617373696669636174696f6e2f30302d70726f6a6563742d666f6f642d6e6f742d666f6f642d6f766572766965772e706e67"
+<img src="images/image-1.png"
 width="800">
 
 ## What is Hugging Face?
@@ -97,7 +97,7 @@ width="800">
 
 An example text classification problem to classify insurance claim texts into at fault or not fault. This result of the model would send the claim to a different department in the insurance company.
 
-<img src="https://camo.githubusercontent.com/eab65c3cbc7258857d03819185fa0ae702b9ee494261d512bb31413ee5a2651f/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f6d7264626f75726b652f6c6561726e2d68662d696d616765732f7265736f6c76652f6d61696e2f6c6561726e2d68662d746578742d636c617373696669636174696f6e2f30322d6578616d706c652d746578742d636c617373696669636174696f6e2d776f726b666c6f772e706e67"
+<img src="images/image-2.png"
 width="800">
 
 
@@ -157,7 +157,7 @@ For this project, we're going to focus on fine-tuning our own model.
 
 But this worfklow will give us some good guidelines to follow.
 
-<img src="https://camo.githubusercontent.com/37a904cb209cbc07b9b58b281dc1407e91210983491bec069b61b453d1de8ec4/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f6d7264626f75726b652f6c6561726e2d68662d696d616765732f7265736f6c76652f6d61696e2f6c6561726e2d68662d746578742d636c617373696669636174696f6e2f30312d68756767696e672d666163652d776f726b666c6f772e706e67"
+<img src="images/image-3.png"
 width="800">
 
 
@@ -197,7 +197,7 @@ width="800">
   - Available on Hugging Face: [`mrdbourke/learn_hf_food_not_food_image_captions`](https://huggingface.co/datasets/mrdbourke/learn_hf_food_not_food_image_captions).
   - Designed for practicing text classification tasks.
 
-<img src="https://camo.githubusercontent.com/459a52d9b0e4ed339be867ee97adf4aead5b88fed338fa3d2af661b31874ace9/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f6d7264626f75726b652f6c6561726e2d68662d696d616765732f7265736f6c76652f6d61696e2f6c6561726e2d68662d746578742d636c617373696669636174696f6e2f6c6561726e2d68662d666f6f642d6e6f742d666f6f642d746578742d636c617373696669636174696f6e2d646174617365742e706e67"
+<img src="images/image-4.png"
 width="800">
 
 ## Food Not Food Image Caption Dataset Creation
@@ -227,7 +227,7 @@ width="800">
   - **Large Language Models (LLMs)** can generate synthetic data for text classification problems.
   - Enables custom dataset creation when real-world data is limited.
  
-<img src="https://camo.githubusercontent.com/f2e6969ea6048f5232caf455f9e34b3025ac8ce0f2a7cb42465ca30cc5462e6f/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f6d7264626f75726b652f6c6561726e2d68662d696d616765732f7265736f6c76652f6d61696e2f6c6561726e2d68662d746578742d636c617373696669636174696f6e2f30332d706c616365732d746f2d6765742d746578742d64617461736574732e706e67"
+<img src="images/image-5.png"
 width="800">
 
 ## Setting up a model for training
@@ -252,7 +252,7 @@ width="800">
     2. Can be adapted across various domains (e.g., vision, audio, NLP).
   - **Key Question:** "Does a pretrained model exist for my task, and can I fine-tune it?"
  
-  <img src="https://camo.githubusercontent.com/02df5285232360f5702f9eb3b82a19de34882bd0c3634dc71ab359e1dbd4e6e4/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f6d7264626f75726b652f6c6561726e2d68662d696d616765732f7265736f6c76652f6d61696e2f6c6561726e2d68662d746578742d636c617373696669636174696f6e2f30392d7472616e736665722d6c6561726e696e672d6578616d706c652e706e67"
+  <img src="images/image-6.png"
 width="800">
 
 - **Model Customization & Configuration**
@@ -264,7 +264,7 @@ width="800">
 - **Further Learning**
   - Example of **Transfer Learning in PyTorch**: [PyTorch Transfer Learning Guide](https://www.learnpytorch.io/06_pytorch_transfer_learning/).
 
-  <img src="https://camo.githubusercontent.com/de066ed72039f3a831693348da2a84307ad7642c1918632b9e837eae8df7be9a/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f6d7264626f75726b652f6c6561726e2d68662d696d616765732f7265736f6c76652f6d61696e2f6c6561726e2d68662d746578742d636c617373696669636174696f6e2f30372d6c6561726e696e672d616e642d7472616e736665722d6c6561726e696e672d706172616469676d732e706e67"
+  <img src="images/image-7.png"
 width="800">
 
 
